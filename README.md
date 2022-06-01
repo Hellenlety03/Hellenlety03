@@ -1,0 +1,13 @@
+-  
+-   
+-     👋 ola,eu sou  @Hellenlety03
+- 👀 Estou interessada em gamer...
+- 🌱 Estou apredendo progamação...
+- 💞️ Amo ver videos sobre jogos   ...
+- 📫Meu email e´ hellen.santos.pereira@escola.pr.gov.br  ...
+
+<!---
+Hellenlety03/Hellenlety03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+  
